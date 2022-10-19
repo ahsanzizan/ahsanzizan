@@ -1,5 +1,5 @@
 Hi, I’m @ahsanAazizan
-I’m currently learning Software Engineering and Artificial Intelligence at SMK Telkom Malang
+I’m currently studying Software Engineering and Artificial Intelligence at SMK Telkom Malang
 
 
 
