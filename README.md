@@ -1,4 +1,4 @@
-Hi, I’m @ahsanAazizan
+Hi, I’m @ahsanAazizan,
 I’m currently studying Software Engineering and Artificial Intelligence at SMK Telkom Malang
 
 
