@@ -1,5 +1,6 @@
 Hi, I’m @ahsanAazizan
-I’m currently learning Java Programming Language at SMK Telkom Malang
+I’m currently learning Software Engineering and Artificial Intelligence at SMK Telkom Malang
+
 
 
 <!---
