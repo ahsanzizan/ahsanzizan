@@ -21,9 +21,9 @@
 
 
 ### About Me :
-1.  I'm currently studying Software Engineering at [Telkom's Vocational High School Malang](https://smktelkom-mlg.sch.id),<br/> 
-2.  My current learning focus is on Java programming language, but i've learned Python, C#, HTML, CSS, JS, and more,<br/>
-3.  Work on a project or solving problem on [GeeksForGeeks](https://geeksforgeeks.com) or [HackerRank](https://hackerrank.com), sometimes even [Leetcode](leetcode.com)**
+* I'm currently studying Software Engineering at [Telkom's Vocational High School Malang](https://smktelkom-mlg.sch.id),<br/> 
+* My current learning focus is on Java programming language, but i've learned Python, C#, HTML, CSS, JS, and more,<br/>
+* Work on a project or solving problem on [GeeksForGeeks](https://geeksforgeeks.com) or [HackerRank](https://hackerrank.com), sometimes even [Leetcode](leetcode.com)**
 
 ### Stats : 
 
