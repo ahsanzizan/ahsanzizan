@@ -3,7 +3,7 @@
 </div>
 
 <div id="" align="center">
-  <img src="https://media.giphy.com/media/uljidatzCuEs7yo1KV/giphy-downsized-large.gif" width="100"/>
+  <img src="https://media.giphy.com/media/uljidatzCuEs7yo1KV/giphy.gif" width="100"/>
 </div>
 
 Hi, I’m @ahsanAazizan,
