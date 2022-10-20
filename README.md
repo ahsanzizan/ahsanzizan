@@ -20,10 +20,9 @@
 
 
 about_me = { <br/>
-  &emsp;'status': ':telescope: I'm currently studying Software Engineering at SMK Telkom Malang',<br/> 
-  &emsp;'education': 'SDN Cimanggu, SBI Cikembang, Sekolah Indonesia Riyadh, Sekolah Indonesia Bangkok, SDN Bintaro 13 Pagi, MTsN 3 Jakarta, SMK Telkom Malang',<br/>
-  &emsp;'language': 'My current learning focus is on Java programming language, but i've learned Python and C# before',<br/>
-  &emsp;'hoby': ':seedling: In my free times, i solve problem on GeeksForGeeks or HackerRank, sometimes even Leetcode'<br/>
+  &emsp;status: :telescope:I'm currently studying Software Engineering at SMK Telkom Malang,<br/> 
+  &emsp;language: :technologist:My current learning focus is on Java programming language, but i've learned Python and C# before,<br/>
+  &emsp;hoby:  🚀 Work on a project or solving problem on GeeksForGeeks or HackerRank, sometimes even Leetcode<br/>
 }
 
 
