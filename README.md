@@ -27,8 +27,8 @@
 
 ### Stats : 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ahsanAazizan&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D)]
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanAazizan&layout=compact&theme=vision-friendly-dark)]
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ahsanAazizan&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanAazizan&layout=compact&theme=vision-friendly-dark)
 
 ### Language & tools:
   <div>
