@@ -17,7 +17,7 @@
   <img src="https://komarev.com/ghpvc/?username=ahsanAazizan&style=flat-square&color=red"/>  
   <h1>Hi there! I'm Ahsan Azizan<h1/>
 </div>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ahsanAazizan&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 
 about_me = { <br/>
   &emsp;status: :telescope:I'm currently studying Software Engineering at SMK Telkom Malang,<br/> 
@@ -39,7 +39,7 @@ about_me = { <br/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" **alt="Git" width="40" height="40"/>
 </div>
 
- 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ahsanAazizan&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanAazizan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
