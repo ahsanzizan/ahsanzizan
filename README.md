@@ -20,11 +20,10 @@
 </div>
 
 
-**about_me = { <br/>
-  &emsp;_status_: :telescope:I'm currently studying Software Engineering at [Telkom's Vocational High School Malang](https://smktelkom-mlg.sch.id),<br/> 
-  &emsp;_language_: 👨‍💻My current learning focus is on Java programming language, but i've learned Python, C#, HTML, CSS, JS, and more,<br/>
-  &emsp;_hoby_: 🚀Work on a project or solving problem on [GeeksForGeeks](https://geeksforgeeks.com) or [HackerRank](https://hackerrank.com), sometimes even [Leetcode](leetcode.com)<br/>
-}**
+### About Me :
+1.  I'm currently studying Software Engineering at [Telkom's Vocational High School Malang](https://smktelkom-mlg.sch.id),<br/> 
+2.  My current learning focus is on Java programming language, but i've learned Python, C#, HTML, CSS, JS, and more,<br/>
+3.  Work on a project or solving problem on [GeeksForGeeks](https://geeksforgeeks.com) or [HackerRank](https://hackerrank.com), sometimes even [Leetcode](leetcode.com)**
 
 ### Stats : 
 
