@@ -20,9 +20,9 @@
 
 
 about_me = { <br/>
-  &emsp;status: :telescope:I'm currently studying Software Engineering at SMK Telkom Malang,<br/> 
-  &emsp;language: :technologist:My current learning focus is on Java programming language, but i've learned Python, C#, HTML, CSS, JS, and more,<br/>
-  &emsp;hoby:  🚀 Work on a project or solving problem on GeeksForGeeks or HackerRank, sometimes even Leetcode<br/>
+  &emsp; > status: :telescope:I'm currently studying Software Engineering at SMK Telkom Malang,<br/> 
+  &emsp; > language: :technologist:My current learning focus is on Java programming language, but i've learned Python, C#, HTML, CSS, JS, and more,<br/>
+  &emsp; > hoby:  🚀 Work on a project or solving problem on GeeksForGeeks or HackerRank, sometimes even Leetcode<br/>
 }
 
 
