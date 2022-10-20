@@ -20,15 +20,15 @@
 
 
 about_me = { <br/>
-  &emsp; > status: :telescope:I'm currently studying Software Engineering at SMK Telkom Malang,<br/> 
-  &emsp; > language: :technologist:My current learning focus is on Java programming language, but i've learned Python, C#, HTML, CSS, JS, and more,<br/>
-  &emsp; > hoby:  🚀 Work on a project or solving problem on GeeksForGeeks or HackerRank, sometimes even Leetcode<br/>
+  &emsp;status: :telescope:I'm currently studying Software Engineering at [SMK Telkom Malang](https://smktelkom-mlg.sch.id),<br/> 
+  &emsp;language: 👨‍💻:My current learning focus is on Java programming language, but i've learned Python, C#, HTML, CSS, JS, and more,<br/>
+  &emsp;hoby:  🚀 Work on a project or solving problem on [GeeksForGeeks](https://geeksforgeeks.com) or [HackerRank](https://hackerrank.com), sometimes even [Leetcode](leetcode.com)<br/>
 }
 
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ahsanAazizan&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanAazizan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ahsanAazizan&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D)]
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanAazizan&layout=compact&theme=vision-friendly-dark)]
 
 ### Language & tools:
   <div>
