@@ -14,15 +14,17 @@
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt"Insta Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=ahsanAazizan&style=flat-square&color=red"/>
-  
-  <h1>Hi there!<h1/>
+  <img src="https://komarev.com/ghpvc/?username=ahsanAazizan&style=flat-square&color=red"/>  
+  <h1>Hi there! I'm @ahsanAazizan<h1/>
 </div>
 
 
-Hi, I’m @ahsanAazizan,
-I’m currently studying Software Engineering at SMK Telkom Malang. I'm currently in the 10th grade. My current learning focus is on Java programming language, but i've learned Python and C# before.
-
+about_me = {
+  'status': ':telescope: I'm currently studying Software Engineering at SMK Telkom Malang', 
+  'education': 'SDN Cimanggu, SBI Cikembang, Sekolah Indonesia Riyadh, Sekolah Indonesia Bangkok, SDN Bintaro 13 Pagi, MTsN 3 Jakarta, SMK Telkom Malang',
+  'language': 'My current learning focus is on Java programming language, but i've learned Python and C# before',
+  'hoby': ':seedling: In my free times, i solve problem on GeeksForGeeks or HackerRank, sometimes even Leetcode'
+}
 
 
 
