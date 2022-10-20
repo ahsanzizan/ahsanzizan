@@ -15,7 +15,7 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=ahsanAazizan&style=flat-square&color=red"/>  
-  <h1>Hi there! I'm @ahsanAazizan<h1/>
+  <h1>Hi there! I'm Ahsan Azizan<h1/>
 </div>
 
 
