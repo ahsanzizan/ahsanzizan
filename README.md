@@ -2,6 +2,10 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/26DoiqmYcxgFICb3G/giphy-downsized-large.gif" width="100"/>
+</div>
+
 Hi, I’m @ahsanAazizan,
 I’m currently studying Software Engineering at SMK Telkom Malang. I'm currently in the 10th grade. My current learning focus is on Java programming language, but i've learned Python and C# before.
 
