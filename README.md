@@ -19,11 +19,11 @@
 </div>
 
 
-about_me = {__
-  'status': ':telescope: I'm currently studying Software Engineering at SMK Telkom Malang',__ 
-  'education': 'SDN Cimanggu, SBI Cikembang, Sekolah Indonesia Riyadh, Sekolah Indonesia Bangkok, SDN Bintaro 13 Pagi, MTsN 3 Jakarta, SMK Telkom Malang',__
-  'language': 'My current learning focus is on Java programming language, but i've learned Python and C# before',__
-  'hoby': ':seedling: In my free times, i solve problem on GeeksForGeeks or HackerRank, sometimes even Leetcode'__
+about_me = { <br/>
+  'status': ':telescope: I'm currently studying Software Engineering at SMK Telkom Malang',<br/> 
+  'education': 'SDN Cimanggu, SBI Cikembang, Sekolah Indonesia Riyadh, Sekolah Indonesia Bangkok, SDN Bintaro 13 Pagi, MTsN 3 Jakarta, SMK Telkom Malang',<br/>
+  'language': 'My current learning focus is on Java programming language, but i've learned Python and C# before',<br/>
+  'hoby': ':seedling: In my free times, i solve problem on GeeksForGeeks or HackerRank, sometimes even Leetcode'<br/>
 }
 
 
