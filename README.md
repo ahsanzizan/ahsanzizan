@@ -21,7 +21,7 @@
 
 about_me = { <br/>
   &emsp;status: :telescope:I'm currently studying Software Engineering at SMK Telkom Malang,<br/> 
-  &emsp;language: :technologist:My current learning focus is on Java programming language, but i've learned Python, C#, HTML, CSS, JS,<br/>
+  &emsp;language: :technologist:My current learning focus is on Java programming language, but i've learned Python, C#, HTML, CSS, JS, and more,<br/>
   &emsp;hoby:  🚀 Work on a project or solving problem on GeeksForGeeks or HackerRank, sometimes even Leetcode<br/>
 }
 
@@ -33,7 +33,10 @@ about_me = { <br/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/csharp/csharp-original.svg" title="C#" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="Git" width="40" height="40"/>
+    
 </div>
 
 
