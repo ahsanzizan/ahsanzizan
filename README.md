@@ -1,5 +1,10 @@
 Hi, I’m @ahsanAazizan,
-I’m currently studying Software Engineering at SMK Telkom Malang
+I’m currently studying Software Engineering at SMK Telkom Malang. I'm currently in the 10th grade. My current learning focus is on Java programming language, but i've learned Python and C# before.
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 
 
 <!---
