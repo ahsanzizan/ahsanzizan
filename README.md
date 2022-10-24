@@ -1,7 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
   <h1>Hi there! I'm Ahsan Azizan<h1/>
-  <h2> Contact Me </h2>
+  <h2>Contact Me</h2>
   <div id="badges">
     <a href="https://www.linkedin.com/in/ahsan-awadullah-33908b250">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
