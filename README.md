@@ -23,6 +23,7 @@
 * I'm currently studying Software Engineering at [Telkom's Vocational High School Malang](https://smktelkom-mlg.sch.id) 
 * My current learning focus is on Java programming language, but i've learned Python, C#, HTML, CSS, JS before
 * On my free time i work on a project or solving problem on [GeeksForGeeks](https://geeksforgeeks.com) or [HackerRank](https://hackerrank.com), sometimes even [Leetcode](leetcode.com)
+Also i've been trying new things like Dart's Flutter and React native lately 
 
 ### Stats : 
 
