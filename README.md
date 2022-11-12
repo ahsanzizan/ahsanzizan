@@ -5,9 +5,6 @@
     <a href="https://www.linkedin.com/in/ahsan-awadullah-33908b250">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.youtube.com/channel/UCQ14vY0vDOJen3g2kfR5utw">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
     <a href="https://twitter.com/sanzizan96?t=rQ1yOG3zH_Gp2nBkZ6RjBQ&s=09">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
