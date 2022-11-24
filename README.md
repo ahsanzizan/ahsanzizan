@@ -1,3 +1,3 @@
 # https://ahsanaazizan.github.io
 
-https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
+https://github-readme-streak-stats.herokuapp.com/?user=ahsanAazizan
