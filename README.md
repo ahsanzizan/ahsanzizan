@@ -7,3 +7,4 @@ Email: contact@ahsanzizan.xyz
   <li>I need help with C++</li>
 </ul>
 
+I'm also writing blogs at [www.ahsanzizan.xyz](https://www.ahsanzizan.xyz/blog)
