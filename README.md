@@ -1,5 +1,6 @@
 # Code Goes BRRR
-Discord: `ahsanzizan#7908`
+Discord: `ahsanzizan#7908` <br />
+Email: contact@ahsanzizan.xyz
 <br />
 <ul>
   <li>Ask me about TypeScript and Python</li>
