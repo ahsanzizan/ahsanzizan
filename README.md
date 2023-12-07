@@ -7,4 +7,3 @@ Email: contact@ahsanzizan.xyz
   <li>I need help with C++</li>
 </ul>
 
-Open to any learning experience
