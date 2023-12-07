@@ -1,5 +1,5 @@
 # Code Goes BRRR
-Discord: `ahsanzizan#7908` <br />
+Discord: [`ahsanzizan`](https://discordapp.com/users/650696568227233823) <br />
 Email: contact@ahsanzizan.xyz
 <br />
 <ul>
