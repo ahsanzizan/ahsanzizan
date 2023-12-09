@@ -6,7 +6,7 @@ Email: contact@ahsanzizan.xyz
   <li>I'm based in Indonesia</li>
   <li>My main programming languages are TypeScript, C#, and Python</li>
   <li>Ask me about programming and coding stuff</li>
-  <li>I'm interested in learning cyber security and AI Computer Vision</li>
+  <li>I'm looking forward to learn Low-level Programming and AI Computer Vision</li>
   <li>Currently diving into some C++ programming</li>
 </ul>
 
