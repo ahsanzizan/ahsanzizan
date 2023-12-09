@@ -3,8 +3,11 @@ Discord: [`ahsanzizan`](https://discordapp.com/users/650696568227233823) <br />
 Email: contact@ahsanzizan.xyz
 <br />
 <ul>
-  <li>Ask me about TypeScript, Python, and Java</li>
-  <li>I need help with C++</li>
+  <li>I'm based in Indonesia</li>
+  <li>My main programming languages are TypeScript, C#, and Python</li>
+  <li>Ask me about programming and coding stuff</li>
+  <li>I need help with cyber security</li>
+  <li>Currently diving into some C++ programming</li>
 </ul>
 
 Writing blogs at [www.ahsanzizan.xyz](https://www.ahsanzizan.xyz/blog) <br />
