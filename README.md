@@ -11,6 +11,4 @@ Email: contact@ahsanzizan.xyz
 </ul>
 
 Writing blogs at [www.ahsanzizan.xyz](https://www.ahsanzizan.xyz/blog) <br />
-Usually solves problems at [HackerRank](https://www.hackerrank.com/profile/ahsanzizan) and building stuff at [MilkyWay](https://github.com/milkyway-id) <br />
-
-<a href="https://app.daily.dev/ahsanzizan"><img src="https://api.daily.dev/devcards/7db9a158b6714ff48f1a9e2d48708205.png?r=sin" width="400" alt="Ahsan Awadullah Azizan's Dev Card"/></a>
+Usually solves problems at [HackerRank](https://www.hackerrank.com/profile/ahsanzizan) and building stuff at [MilkyWay](https://github.com/milkyway-id)
