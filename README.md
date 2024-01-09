@@ -12,3 +12,4 @@ Email: contact@ahsanzizan.xyz
 
 Writing blogs at [www.ahsanzizan.xyz](https://www.ahsanzizan.xyz/blog) <br />
 Usually solves problems at [HackerRank](https://www.hackerrank.com/profile/ahsanzizan) and building stuff at [MokletDev](https://github.com/moklet-dev)
+Sharing snippets at [GithubGist](https://gist.github.com/ahsanzizan)
