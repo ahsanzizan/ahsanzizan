@@ -10,3 +10,5 @@ See my portfolio respositories [here](https://github.com/stars/ahsanzizan/lists/
 
 Writing blogs at [www.ahsanzizan.xyz](https://www.ahsanzizan.xyz/blog) <br />
 Usually solves problems at [HackerRank](https://www.hackerrank.com/profile/ahsanzizan), building stuff at [MokletDev](https://github.com/mokletdev) and sharing snippets at [GithubGist](https://gist.github.com/ahsanzizan) or Notebooks on [Kaggle](https://www.kaggle.com/ahsanawadullahazizan)
+
+Checkout my Next.js starter: [here](https://github.com/ahsanzizan/next-starter)
