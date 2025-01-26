@@ -6,7 +6,7 @@ GitHub Stats: [here](https://github.com/ahsanzizan/stats)
 <br />
 Insta: [@ahsanzizan](https://instagram.com/ahsanzizan)
 
-I write TypeScript, sometimes C# but often Python for automation. Willing to learn C++. Data science enthusiast.
+I write TypeScript, sometimes C# but often Python for automation. Currently learning Rust. Data science enthusiast.
 
 See my portfolio respositories [here](https://github.com/stars/ahsanzizan/lists/portfolio).
 
