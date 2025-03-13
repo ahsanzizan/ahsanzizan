@@ -4,6 +4,8 @@
 - GitHub Stats: [here](https://github.com/ahsanzizan/stats)
 - Insta: [@ahsanzizan](https://instagram.com/ahsanzizan)
 
+I like sharing things on my Insta [@ahsanzizan](https://instagram.com/ahsanzizan)
+
 I write TypeScript, sometimes C# but often Python for automation. Currently learning Rust. Data science enthusiast.
 
 See my portfolio respositories [here](https://github.com/stars/ahsanzizan/lists/portfolio).
