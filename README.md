@@ -3,6 +3,7 @@
 - Email: contact@ahsanzizan.xyz
 - GitHub Stats: [here](https://github.com/ahsanzizan/stats)
 - Insta: [@ahsanzizan](https://instagram.com/ahsanzizan)
+- Apparently, I'm on TikTok too now: [@ahsanzizan](https://tiktok.com/@ahsanzizan)
 
 I like sharing things on my Insta [@ahsanzizan](https://instagram.com/ahsanzizan)
 
